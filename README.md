@@ -129,9 +129,12 @@ Fox & Wang, NEJM 2001（PMID: 11556301），改编自 Correa 1992（Cancer Res 5
 Fox & Wang 2001 的 Figure 1 是一个**环境因素-组织形态学**框架，其价值在于建立了"多步骤、多因素"的概念骨架。25 年来的更新并未推翻这一骨架，而是在每一步骤下方填充了**分子层**（毒力因子、DNA 损伤修复、表观遗传）、**细胞层**（SPEM、paligenosis、CSC）和**微环境层**（微生物组、免疫细胞、铁死亡）。最具颠覆性的更新是 **SPEM 的发现**——它在萎缩与肠化生之间插入了一个此前未被识别的关键中间步骤，并定义了一个"治疗窗口"（canonical SPEM 阶段可逆）和一个"不可逆转点"（proliferative intestinalized SPEM 阶段）。[[8]](https://pubmed.ncbi.nlm.nih.gov/41347923)[[7]](https://pubmed.ncbi.nlm.nih.gov/34728185)  
 
 **个人启示**
+
 从1992到2026，笔者从事病理诊断，形态学解读一直是我的日常工作，每一个视野都是在某一个方面映射了疾病某个阶段、某个方面病理及病理生理学机制，每一次形态到临床的映射，其基线校准，离不开这些研究者孜孜不倦的深入研究。致敬Pelayo Correa。
   
-![](https://gut.bmj.com/content/gutjnl/early/2026/01/09/gutjnl-2025-337983/F1.large.jpg?width=800&height=600)April 12, 2012: Pelayo Correa Honored with American Association for Cancer Research (AACR) Lectureship.
+
+<img width="1285" height="1800" alt="gutjnl-2025-337983-F1 large" src="https://github.com/user-attachments/assets/59d5687e-6244-4022-b114-b50982ce95a2" />
+April 12, 2012: Pelayo Correa Honored with American Association for Cancer Research (AACR) Lectureship.
   
 
 ### References
