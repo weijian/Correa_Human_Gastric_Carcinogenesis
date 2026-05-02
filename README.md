@@ -131,7 +131,7 @@ Fox & Wang 2001 的 Figure 1 是一个**环境因素-组织形态学**框架，�
 **个人启示**
 从1992到2026，笔者从事病理诊断，形态学解读一直是我的日常工作，每一个视野都是在某一个方面映射了疾病某个阶段、某个方面病理及病理生理学机制，每一次形态到临床的映射，其基线校准，离不开这些研究者孜孜不倦的深入研究。致敬Pelayo Correa。
   
-![](https://gut.bmj.com/content/gutjnl/early/2026/01/09/gutjnl-2025-337983/F1.large.jpg?width=800&height=600&carousel=1)April 12, 2012: Pelayo Correa Honored with American Association for Cancer Research (AACR) Lectureship.
+![](https://gut.bmj.com/content/gutjnl/early/2026/01/09/gutjnl-2025-337983/F1.large.jpg?width=800&height=600)April 12, 2012: Pelayo Correa Honored with American Association for Cancer Research (AACR) Lectureship.
   
 
 ### References
